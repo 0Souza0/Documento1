@@ -1,0 +1,489 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{hyperref}
+\begin{document}
+\pagestyle{empty}
+  \begin{figure}
+      \centering
+      \includegraphics[width=0.5\linewidth]{Logo-uninove.png}
+  \end{figure}
+  \centering 
+  \textbf{UNIVERSIDADE NOVE DE JULHO - UNINOVE}
+  
+  \textbf{PROJETO EM EMPREENDEDORISMO}
+
+  \paragraph{}
+
+  \paragraph{}
+  
+  \paragraph{EXCLUÍDOS OS DADOS SOBRE OS AUTORES EM ATENDIMENTO A LGPD - LEI GERAL DE PROTEÇÂO DE DADOS}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{ACABANDO COM A FOME}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\textbf{São Paulo}
+
+\textbf{2024}
+
+\paragraph{}
+
+\textbf{EXCLUÍDOS OS DADOS SOBRE OS AUTORES EM ATENDIMENTO A LGPD - LEI GERAL DE PROTEÇÃO DE DADOS}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\textbf{ACABANDO COM A FOME}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\flushright
+Projeto apresentado a Universidade Nove de
+
+Julho - UNINOVE, como parte dos requisi-  
+
+tos obrigatórios para obtenção do título de  
+
+Tecnólogo em Análise e Desenvolvimento de
+
+\centering{Sistemas.}                               
+
+\flushright{Prof. Orientador: Edson Melo de Souza, Dr.}
+
+\centering
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\textbf{São Paulo}
+
+\textbf{2024}
+
+\paragraph{}
+
+\textbf{RESUMO}
+
+\rule[-0.1cm]{5in}{0.1pt}
+
+\paragraph{}
+
+\flushleft
+\textbf{Contexto:} Analisando a sociedade, é perceptível o quanto a falta de empatia e inclusão tem tomado os corações das pessoas. O mundo virou um lugar que ajudar os necessitados virou algo idiota de se fazer, já que teve diversas situações em que alguém ajudava, e o indivíduo ia gastar o que recebia com elementos ilícitos, ou não comprava aquilo que ele tinha informado que precisava. Mas até onde essa desconfiança pode levar? 
+
+\textbf{Objetivo:} Conseguir levar doações para todos aqueles que verdadeiramente necessitam (seja de comida, roupas e afins) trazendo um pouco mais de qualidade na vida daqueles que precisam, trazendo um pouco mais de esperança, empatia e humanidade para essa atualidade que vivemos.
+
+\textbf{Método:} Nossos métodos se baseiam na doação de espontânea vontade de cidadãos para ajudar com a causa e com parcerias com mercados, restaurantes e ONGs para que grandes doações também sejam feitas, e levadas para a casa dos "beneficíarios" após uma análise minunciosa para saber se de fato eles precisam, ou se é apenas alguém agindo de "má-fé".
+
+\textbf{Resultados:} É visível que milhares de indivíduos têm se conscientizado sobre a importância das doações, já que se trata de outra vida humana, e com a divulgação de nossas parcerias e outros colabores, o número de doações, seja de pequeno ou grande porte, tem aumentado significativamente, fazendo assim nossa instituição cumprir seu objetivo alegremente.
+
+\textbf{Conclusão:} Percebe-se o quanto o coração de muitos vêm se esfriando, já que principalmente a rotina da cidade torna comum ver esse tipo de problema, fazendo criar até um tipo de desprezo com gente nessa situação. Entretanto, é bom ver que muitos ainda possuem um coração cheio de empatia que apoia e ajuda essas causas sociais, e poder ajudar os que necessitam faz nosso trabalhgo valer a pena. 
+
+\textbf{Palavras-chave:} Fome, doações, causas sociais, empatia, situação de risco, nessecitam, pessoas.
+
+\paragraph{}
+
+\paragraph{}
+
+\centering{
+\textbf{ABSTRACT}}
+
+\rule[-0.1cm]{5in}{0.1pt}
+
+\paragraph{}
+
+\flushleft
+
+\textbf{Context:} Analyzing society, it is noticeable how much the lack of empathy and inclusion has taken over people's hearts. The world became a place where helping those in need became an idiotic thing to do, as there were several situations in which someone helped, and the individual would spend what they received on illicit items, or not buy what they had said they needed. But how far can this distrust lead? 
+
+\textbf{Objective:} To be able to take donations to all those who truly need it (be it food, clothes and the like), bringing a little more quality to the lives of those who need it, bringing a little more hope, empathy and humanity to this current situation that we live.
+
+\textbf{Method:} Our methods are based on the voluntary donation of citizens to help with the cause and on partnerships with markets, restaurants and NGOs so that large donations are also made, and taken to the homes of the "beneficiaries" after a thorough analysis to find out if they actually need it, or if it is just someone acting in "bad faith".
+
+\textbf{Results:} It is visible that thousands of individuals have become aware of the importance of donations, as it involves another human life, and with the dissemination of our partnerships and other collaborators, the number of donations, whether small or large size, has increased significantly, thus making our institution happily fulfill its objective.
+
+\textbf{Conclusion:} It can be seen how many people's hearts have become colder, since the city's routine makes it common to see this type of problem, creating even a type of contempt for people in this situation. However, it is good to see that many still have a heart full of empathy that supports and helps these social causes, and being able to help those in need makes our work worthwhile. 
+
+\textbf{Keywords:} Hunger, donations, social causes, empathy, risk situation, need, people.
+
+\paragraph{}
+\paragraph{}
+\paragraph{}
+
+\centering{
+\textbf{SUMÁRIO}}
+
+\rule[-0.01cm]{5in}{0.1pt}
+\flushleft
+\section{Introdução}
+
+\section{Objetivos}
+
+\section{Sobre Nós}
+
+\section{Ideação}
+
+\section{Fundamento Teórico}
+
+\section{Metodologia}
+
+\subsection{Visão Geral}
+\subsection{Como funciona as doações}
+\subsection{Porque doar...}
+\subsection{Como geraria lucro}
+\subsection{Forma de abordagem}
+\subsection{Iustrações}
+
+\section{Análise dos resultados}
+
+\section{Conclusão}
+
+\section{Referências Bibliográficas}
+
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\textbf{INTRODUÇÃO}
+
+\rule[-0.1cm]{5in}{0.1pt}
+
+\paragraph{}
+
+\textbf{Unidoa} é uma empresa focada na área de doações para pessoas com dificuldades. Com parcerias com grandes mercados, restaurantes e ONGs. Com grande divulgação de nossas parcerias, e de nossa equipe nas redes sociais, tem sido possível alcançar mais famílias em situação de risco e fome, ajudando elas a cada dia que passar ter algo para comer ao se levantar, e algo para vestir, visando uma melhora na qualidade de vida, e trazendo um pouco mais de humanidade e esperança para as pessoas, o que tem faltado na maioria do mundo.
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\textbf{OBJETIVOS}
+
+\rule[-0.1cm]{5in}{0.1pt}
+
+\paragraph{}
+
+\textbf{Objetivos} que nossa empresa possui são os de: melhorar a qualidade de vida; praticar a empatia; "Salvar" aqueles que precisam ser salvos; levar um pouco de esperança e humanidade para todos; doar aquilo que pode fazer a diferença para quem o recebe e fazer as pessoas se conscientizarem sobre o quanto é importante doar, principalmente se para ela não vai fazer diferença.
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\textbf{SOBRE NÓS}
+
+\rule[-0.01cm]{5in}{0.1pt}
+
+\textbf{A Unidoa} surgiu após uma discussão de nossos fundadores, visando ajudar o próximo. Somos uma instituição de doações, que conseguiu parcerias com os mercados: \textbf{Carrefour; Dia; Assaí; Sonda; Lopes e Atacadão}. Já com as ONGs foram: Banco de alimentos; \textbf{UniãoBR; CUFA e ONG Ser Amor}.
+Nosso objetivo é acabar com a fome, daí o título do nosso projeto.
+
+Nossa logo foi pensada e planejada justamente pensamento no ramo em que estamos e com o nome de nossa empresa.
+
+\paragraph{}
+
+\paragraph{}
+
+    \centering{
+    \includegraphics[width=0.5\linewidth]{IMG-20240531-WA0006.jpg}
+    
+    \textbf{logo.Unidoa}}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\flushleft
+
+\textbf{IDEAÇÃO}
+\rule[-0.01cm]{5in}{0.1pt}
+
+\paragraph{}
+
+\textbf{Missão}: Nossa missão é erradicar a fome no mundo, promovendo a igualdade de acesso à alimentação e criando oportunidades para comunidades carentes, por meio de doações estratégicas e sustentáveis.
+
+\textbf{Visão}: Almejamos um mundo onde todas as pessoas tenham acesso a alimentos nutritivos e suficientes para viver de forma digna, contribuindo para o fim da fome e para o desenvolvimento sustentável das comunidades mais vulneráveis.
+
+\textbf{Valores}:
+\paragraph{}
+\textbf{Compromisso}: Comprometemo-nos a agir com transparência, responsabilidade e dedicação na busca pela erradicação da fome.
+\paragraph{}
+\textbf{Empatia}: Priorizamos o respeito e a compreensão das necessidades das comunidades atendidas, buscando soluções que promovam dignidade e inclusão.
+\paragraph{}
+\textbf{Sutentabilidade}: Buscamos soluções sustentáveis que promovam a segurança alimentar a longo prazo, respeitando o meio ambiente e os recursos naturais.
+\paragraph{}
+\textbf{Parceria}: Valorizamos parcerias estratégicas com organizações, empresas e indivíduos comprometidos com a mesma causa, buscando ampliar o impacto positivo.
+\paragraph{}
+\textbf{Inovação}:Buscamos constantemente novas abordagens e tecnologias inovadoras para otimizar nossas operações e maximizar o alcance de nossos programas.
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\textbf{Fundamento Teórico}
+\rule[-0.01cm]{5in}{0.1pt}
+\paragraph{}
+
+\textbf{A situação da fome no Brasil} é um tema importante e preocupante. De acordo com dados do Instituto Brasileiro de Geografia e Estatística (IBGE) e de outras organizações, a fome ainda é uma realidade para muitas pessoas em nosso país. Aqui estão algumas estatísticas impactantes:
+\paragraph{}
+\textbf{1.} De acordo com a Pesquisa de Orçamentos Familiares (POF) do IBGE, cerca de 10,3 milhões de brasileiros viviam em situação de extrema pobreza em 2018, o que representa um aumento em relação aos anos anteriores.
+\paragraph{}
+\textbf{2.} Segundo a ONU, aproximadamente \textbf{21 milhões} da população brasileira vive em extrema pobreza, o que significa viver com menos de RS 9,50 por dia.
+\paragraph{}
+\textbf{3.} A insegurança alimentar afeta milhões de brasileiros, com famílias enfrentando dificuldades para garantir o acesso regular a alimentos nutritivos e suficientes.
+\paragraph{}
+Essas estatísticas revelam a persistência da fome e da pobreza no Brasil, evidenciando a necessidade de ações concretas para enfrentar esse desafio.
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\textbf{METODOLOGIA}
+\rule[-0.01cm]{5in}{0.1pt}
+\paragraph{}
+
+\textbf{Pesquisas} aprofundadas e discussões sobre o tema foram feitos durante por parte do projeto, dentre essas discussões vieram questionamentos, dentre eles: \textbf{Porque uma instituição de doação; Qual nosso objetivo com esse tema; Por que ele é importante e deve ser abordado; Como gerariamos lucro; como funcionaria as doações e como abordariamos esse tema na internet}.
+\paragraph{}
+
+\paragraph{}
+
+\textbf{Visão Geral}
+\rule[-0.01cm]{5in}{0.1pt}
+\paragraph{}
+
+Após sanarmos essas dúvidas, cada integrante fez uma pesquisa aprofundada que poderia se encaixar no tema proposto, sendo elas: \textbf{Índice de pessoas em situação de fome, ONGs existentes que ajudam a população em situação de pobreza e quais empresas fazem doações, seja de alimentos ou de qualquer outro tipo de necessidade, melhoras formas de criar um site e formas para criar o marketing}.
+
+Então, começou o processo de aprofundamento, onde tinhamos nossas reuniões pessoalmente para conversar sobre o andamento do projeto, vendo o que podiamos melhorar, e o que já teria se decidido.
+
+Com o andamento do projeto, foi criado um roteiro com as principais abordagens que fariamos na apresentação de nossa empresa, visando a objetividade a o fácil entendimento do telespectador.
+
+Além disso, começou o processo da criação do site e da demonstração de como funciona nossas doações e como fariamos em relação a abordagem com futuros "beneficiários" e futuros doadores.
+\paragraph{}
+
+\paragraph{}
+
+\textbf{Como funciona as doações}
+\rule[-0.01cm]{5in}{0.1pt}
+\paragraph{}
+
+\textbf{Para realizar nossas doações} primeiro é preciso ir até a página oficial de nossa instituição e realizar um cadastro, nele você vai especificar se você irá realizar uma doação, ou se você irá receber ela. Após o cadastro, se você se identificar como doador, irá ver a localização não exata dos recebedores, e abrirá uma parte onde você escolherá o que deseja doar e pode escolher também para quem irá doar. Importante ressaltar que se você identificar que vai receber uma doação, um de nossos colaboradores irá até sua localização verificar sua condição financeira, se for aprovada, você estará oficialmente aceito e disponível para receber as doações. 
+
+Então um novo template aparecerá em sua tela, mostrando um lugar público onde você poderá se encontrar com quem está doando (caso você seja um recebedor), ou com um recebedor (caso você seja um doador), e assim que a doação for entregue, deverá ser marcado no quadrado no canto inferior esquerdo como "Pedido entregue e finalizado". Terminando essa ação, aparecerá o último template como "Encontro finalizado", isso significa que o encontro foi um sucesso e que mais uma pessoa foi ajudada.
+
+Vale ressaltar que seu endereço total não é revelado, tanto para a segurança quem está doando quanto para quem está recebendo a doação, apenas um lugar público considerado o "meio" entre as distâncias é mostrado para os envolvidos.
+\paragraph{}
+
+\paragraph{}
+
+\textbf{Porque doar...}
+\rule[-0.01cm]{5in}{0.1pt}
+\paragraph{}
+
+\textbf{A Doação} se torna importante quando se percebe o mundo ao seu redor, a taxa da população em situação de fome, insegurança alimentar, desastres acontecendo ao redor do Brasil e do mundo, e principalmente quando se pratica a empatia, já que é importante ajudar os outros hoje para que no amanhã, caso necessário, eles tenham empatia e ajudem o próximo, ou até quem os ajudou inicialmente.
+\paragraph{}
+
+
+\paragraph{}
+\textbf{Como geraria lucro}
+\rule[-0.01cm]{5in}{0.1pt}
+\paragraph{}
+
+\textbf{A forma que utilizariamos para gerar lucro} é através das notas fiscais que os colaboradores cadastrariam em nosso site ao terminar de doar, ou depois de comprar em um de nossos mercados parceiros, também contariamos com um serviço de taxa de entrega caso o doador não queira ir até o ponto de encontro, onde nosso colaborador iria até um local demarcado pelo doador, receberia a entrega e o levaria para quem a irá receber. Dependendendo da distância, a taxa poderia variar entre RS 5,00 até RS 15,00.
+\paragraph{}
+
+
+\textbf{Forma de abordagem}
+\rule[-0.01cm]{5in}{0.1pt}
+\paragraph{}
+
+\textbf{A forma que abordariamos as pessoas} é atavés de campanhas de conscientização, redes sociais, palestras em instuições de ensino explicando sobre doação, propagandas, e vídeos interativos em diferentes redes sociais, visando aumentar o número de doações ao redor do Brasil, promovendo a humanidade, empatia, e esperança.
+\paragraph{}
+
+\textbf{Ilustrações}
+\rule[-0.01cm]{5in}{0.1pt}
+\paragraph{}
+
+ \centering{
+ \includegraphics[width=1\linewidth]{IMG-20240531-WA0025.jpg}}
+ \centering{
+ \includegraphics[width=1\linewidth]{IMG-20240531-WA0026.jpg}}
+ \centering{
+ \includegraphics[width=1\linewidth]{IMG-20240531-WA0028.jpg}}
+ \centering{
+ \includegraphics[width=1\linewidth]{IMG-20240531-WA0027.jpg}}
+
+\paragraph{}
+ 
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+ 
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\begin{table}
+    \centering
+    \begin{tabular}{cc}
+        Ano & Porcentagem\\
+        2021 & 15\\
+        2022 & 23\\
+        2023 & 31\\
+    \end{tabular}
+    \label{tab:my_label}
+\end{table}
+\flushleft
+\textbf{ANÁLISE DOS RESULTADOS}
+\rule[-0.01cm]{5in}{0.1pt}
+
+\textbf{Tivemos um aumento em nossas porcentagens de doações} com o passar dos anos, o que mostra que temos realizado nossos objetivos com sucesso e perfeição. Mesmo com um tempo relativamente "curto" foi possível fazer uma grande diferença na sociedade que estamos inseridos, e a tendência de doações é so aumentar conforme os anos se passem.
+\paragraph{}
+
+\centering{
+\includegraphics[width=0.75\linewidth]{8660273.png}}
+\paragraph{}  
+
+\paragraph{}  
+
+\flushleft
+\textbf{CONCLUSÃO}
+\rule[-0.01cm]{5in}{0.1pt}
+\paragraph{}
+
+\textbf{Nossa conclusão} foi que, doações fazem sim a diferença, e por mais que nossas vistas estejam frias em relação ao próximo, ao ponto de não nos importarmos com a dor do outro, é sempre importante ignorar esse frieza e nos reconectarmos com nosso lado sentimental e humano. Todas as vidas importam, e é um dever e uma honra para nós servir nosso país e nossa população. \textbf{um sorriso nos rostos de cada ser humano é o que nos faz continuar}.
+
+\paragraph{}
+
+\paragraph{}
+    \centering
+    \includegraphics[width=0.75\linewidth]{foto-na-cabeca-de-uma-mulher-feliz-rindo-e-sorrindo-amplamente_273609-28720.jpg}
+
+ \paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\paragraph{}
+
+\flushleft
+
+\textbf{REFERENCIAS BIBLIOGRÁFICAS}
+\rule[-0.01cm]{5in}{0.1pt}{}
+\paragraph{}
+
+\href{}{https://ifz.org.br/evolucao-da-seguranca-alimentar-e-nutricional-no-brasil-indicadores-macroeconomicos-precos-de-alimentos-e-perspectivas-futuras/}.
+\paragraph{}
+
+\href{}{https://ifz.org.br/evolucao-da-seguranca-alimentar-e-nutricional-no-brasil-indicadores-macroeconomicos-precos-de-alimentos-e-perspectivas-futuras/}.
+\paragraph{}
+
+\href{}{https://www.gov.br/secom/pt-br/assuntos/noticias/2023/07/fome-no-brasil-piorou-nos-ultimos-tres-anos-mostra-relatorio-da-fao}.
+\paragraph{}
+
+\href{}{https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/39838-seguranca-alimentar-nos-domicilios-brasileiros-volta-a-crescer-em-2023}.
+\paragraph{}
+
+\href{}{https://www.cnnbrasil.com.br/nacional/inseguranca-alimentar-fome-atingiu-32-milhoes-de-lares-brasileiros-em-2023-diz-ibge/}.
+
+\end{document}
